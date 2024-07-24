@@ -1,6 +1,9 @@
 ## Notas de Aula
 
-### Nota 1
-### Nota 2 
+# Git Status
+    **verificar o status dos arquivos e pastas dentro do nosso repositório**
 
-# notão
+# Git add
+    **git add . adiciona todos os arquivos para a esteira de commit**.
+    **Já o comando git add [caminho do arquivo] adiciona um arquivo em específico**
+
